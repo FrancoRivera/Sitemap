@@ -1,0 +1,8 @@
+#+title: Sitemap screenshotter
+
+
+Add URLS to pages variable then run:
+
+#+begin_src bash
+node index.js
+#+end_src
